@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Krammm08
+- 👀 I’m interested in programming in general and wanted to know the basics of every languages before deciding on what I should master.
+- 🌱 I’m currently learning C language, HTML, and CSS
+- 💞️ I’m looking to collaborate on my future projects and I would love to provide my support as much as possible
+- 📫 How to reach me you can just chat me here though I won't be always available but I will respond as soon as I am available
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I just started studying programming language since it's the focus of my course in colleg hehe.
+- that's all looking forward to learn and develop as a programmer.
